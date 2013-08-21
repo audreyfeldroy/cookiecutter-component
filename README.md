@@ -4,7 +4,7 @@ cookiecutter-component
 
 Cookiecutter template for a Component package. See https://github.com/audreyr/cookiecutter.
 
-* Free software: MIT license
+* Free software: MIT license (http://audreyr.mit-license.org)
 
 ## What is Component?
 
