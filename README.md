@@ -13,6 +13,8 @@ Component is a client-side HTML, CSS, and/or JS packaging tool.
 See https://github.com/component/component for a description and http://component.io
 for an index of existing Component packages.
 
+## What this code is based on
+
 This is currently based exactly off of the `component create` project template, with
 these options:
 
