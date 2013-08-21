@@ -1,0 +1,11 @@
+{
+	"full_name": "Audrey Roy",
+	"email": "audreyr@gmail.com",
+	"github_username": "audreyr",
+	"project_name": "Ribbon",
+	"repo_name": "ribbon",
+	"description": "Ribbon component that sticks out from the side of a website.",
+	"release_date": "2013-07-29",
+	"year": "2013",
+    "license": "MIT"
+}
