@@ -15,24 +15,24 @@ for an index of existing Component packages.
 
 ## What this code is based on
 
-This is currently based exactly off of the `component create` project template, with
+This started off based exactly off of the `component create` project template, with
 these options:
 
-    $ component create ribbon
-    repo (username/project): audreyr/ribbon 
-    description: Ribbon component that sticks out from the side of a website.
+    $ component create boilerplate
+    repo (username/project): audreyr/boilerplate
+    description: Boilerplate for creating a basic Component package.
     does this component have js? y
     does this component have css? y
     does this component have html? y
 
-          create : ribbon
-          create : ribbon/index.js
-          create : ribbon/template.html
-          create : ribbon/ribbon.css
-          create : ribbon/Makefile
-          create : ribbon/Readme.md
-          create : ribbon/History.md
-          create : ribbon/.gitignore
-          create : ribbon/component.json
+          create : boilerplate
+          create : boilerplate/index.js
+          create : boilerplate/template.html
+          create : boilerplate/boilerplate.css
+          create : boilerplate/Makefile
+          create : boilerplate/Readme.md
+          create : boilerplate/History.md
+          create : boilerplate/.gitignore
+          create : boilerplate/component.json
       
-This may evolve a bit, though.
+This is now evolving past that to meet @audreyr's personal needs, though.
