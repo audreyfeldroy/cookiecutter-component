@@ -4,12 +4,19 @@ cookiecutter-component
 
 Cookiecutter template for a Component package. See https://github.com/audreyr/cookiecutter.
 
-* Free software: MIT license
+* Free software: MIT license (http://audreyr.mit-license.org)
 
-What is Component? See https://github.com/component/component for a description and http://component.io for an index of existing Component packages.
+## What is Component?
 
+Component is a client-side HTML, CSS, and/or JS packaging tool.
 
-This is currently based exactly off of the `component create` project template, with these options:
+See https://github.com/component/component for a description and http://component.io
+for an index of existing Component packages.
+
+## What this code is based on
+
+This is currently based exactly off of the `component create` project template, with
+these options:
 
     $ component create ribbon
     repo (username/project): audreyr/ribbon 
